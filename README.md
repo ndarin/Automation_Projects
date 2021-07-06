@@ -1,5 +1,5 @@
 # image_processing
-Script that changes image files
+Script that changes image files.
 
 This repo will have one main script.
 
