@@ -1,9 +1,11 @@
-# image_processing
-Script that changes image files.
+# Automating Real World Tasks with Python
 
-This repo will have one main script.
+This repo contains scripts for the final projects of the,
+Google IT Automation with Python Professional Certificate. 
 
-Currently the main script is image_processing. 
+The repo will have several scripts.
+
+Currently the only script is image_processing. 
 
 This script will open, rotate, resize image files,
 and save the changes to a different directory.
