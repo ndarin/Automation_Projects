@@ -22,7 +22,7 @@ module dependencies are: reports.py and emails.py
 
 car_sales.json - Contains data on car sales.
 
-Project 4 - Automating Uploading Catalog Info
+Project 4 - Automating Uploading Catalog Info.
 This project combines all automation tasks from projects 1-3 in a single task.
 
 changeImage.py - This script will open, resize and convert image files to jpeg and save the files to a different directory.
