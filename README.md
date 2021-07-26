@@ -1,7 +1,6 @@
 # Automating Real World Tasks with Python
 
-This repo contains scripts for 4 Automation projects.  Part of the
-Google IT Automation with Python Professional Certificate final assessment.
+This repo contains scripts for 4 Automation projects.
 
 There are 3 mini-projects and a main project.
 
